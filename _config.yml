@@ -21,9 +21,9 @@ timezone: Europe/Amsterdam
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Danique's blog                          # the main title
+title: Arcee                         # the main title
 
-tagline: I hack stuff sometimes  # it will display as the sub-title
+tagline: I hack stuff sometimes. This blog contains my writeups for CTF challenges and competitions, as well as bugbounty reports  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Writeups and notes on CTF challenges and Bugbounty
