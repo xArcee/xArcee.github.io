@@ -23,10 +23,10 @@ timezone: Europe/Amsterdam
 
 title: Arcee                         # the main title
 
-tagline: I hack stuff sometimes. This blog contains my writeups for CTF challenges and competitions, as well as bugbounty reports  # it will display as the sub-title
+tagline: I hack stuff sometimes. This blog contains my writeups for CTF challenges and competitions  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Writeups and notes on CTF challenges and Bugbounty
+  Writeups and notes on CTF challenges
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://xArcee.github.io'
@@ -40,15 +40,14 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Danique | Arcee
-  email: daniquelummen@gmail.com             # change to your email address
+  name: Arcee
+  email:             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/xoxdanique      # change to your twitter homepage
     - https://github.com/xArcee       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/danique.lummen
 
 google_site_verification:               # fill in to your verification string
 
@@ -204,13 +203,13 @@ jekyll_compose:
   draft_default_front_matter:
     description:
     image:
-    author: "Danique"
+    author: "Arcee"
     category: "no-category"
     tags: "ctf"
   post_default_front_matter:
     description:
     image:
-    author: "Danique"
+    author: "Arcee"
     category: "no-category"
     tags: "ctf"
     published: false

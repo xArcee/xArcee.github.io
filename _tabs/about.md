@@ -1,7 +1,7 @@
 ---
-title: About
+title: whoami
 icon: fas fa-info-circle
 order: 4
 ---
 
-I'm Danique. I'm currently a masterstudent writing my thesis for my Cybersecurity Master's degree. In my free time, I play CTFs and try my luck at bug hunting. 
+I'm a master student in Cybersecurity, posting my notes and writeups of the CTF challenges I do. 
